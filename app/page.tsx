@@ -1,8 +1,8 @@
 export default function Home() {
   return (
     <main>
-      <h1>I am Link.</h1>
-      <h2>Jan 30 2026</h2>
+      <div>I am Link.</div>
+      <div>Jan 30 2026</div>
       <p>
         创建了logo, 使用svg 并没有学习svg具体代码的知识, 只是有大概的了解,
         然后去问AI如何写, 然后一点点理解代码, 从做项目的角度去学习,
